@@ -10,3 +10,8 @@ data/
 web/public/InfiniteCanvas-ComfyBridge*
 .DS_Store
 .idea
+/.runtime/
+/.playwright-cli/
+/dist/
+/output/
+/logs/
